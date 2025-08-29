@@ -1,0 +1,1 @@
+I, Jayren Calub, hereby declare that I am all set to write C++ code for Mac-unix and push the code to GitHub from my command line
